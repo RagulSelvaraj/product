@@ -1,0 +1,8 @@
+com/example/producthighfive/DTO/UserDetailsDTO.class
+com/example/producthighfive/Repository/ProductRepository.class
+com/example/producthighfive/Controller/ProductController.class
+com/example/producthighfive/Service/ProductService.class
+com/example/producthighfive/Mapper/UserDetailsMapperImpl.class
+com/example/producthighfive/ProductHighFiveApplication.class
+com/example/producthighfive/Model/UserDetails.class
+com/example/producthighfive/Mapper/UserDetailsMapper.class
